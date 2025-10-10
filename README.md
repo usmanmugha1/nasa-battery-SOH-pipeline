@@ -25,7 +25,7 @@ Traditional ML models (XGBoost, RandomForest, GradientBoosting) achieved:
 
 **TabPFN consistently outperforms by 10-50x across all metrics.**
 
-## 🌟 Features
+## Features
 
 ### Advanced Decomposition Methods
 - **CEEMDAN** (Complete Ensemble Empirical Mode Decomposition with Adaptive Noise)
@@ -138,3 +138,28 @@ ARIMA (40+) lags, forecasts, ACF, PACF, residuals
 │  • R²: 0.975-0.998                                           │
 │  • MAPE: 0.06-0.19%                                          │
 └─────────────────────────────────────────────────────────────┘
+
+License
+This project is licensed under the MIT License - see LICENSE file.
+🙏 Acknowledgments
+
+NASA PCoE for the battery dataset: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+TabPFN authors for the pre-trained model
+D3R authors (ForestsKing) for decomposition inspiration
+EMD-signal contributors for CEEMDAN implementation
+
+📧 Contact
+
+Author: [Your Name]
+Email: [your.email@example.com]
+GitHub: @yourusername
+LinkedIn: Your Profile
+
+📖 Citation
+If you use this work, please cite:
+@software{battery_soh_foundational_2025,
+  title={Battery SOH Foundational Model: Advanced Time Series Decomposition with TabPFN},
+  author={Your Name},
+  year={2025},
+  url={https://github.com/yourusername/battery_SOH_FoundationalModel}
+}
